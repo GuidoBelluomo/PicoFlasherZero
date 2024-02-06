@@ -17,12 +17,12 @@
 #ifndef __PINS_H__
 #define __PINS_H__
 
-#define SPI_MISO 16
-#define SPI_SS_N 17
-#define SPI_CLK 18
-#define SPI_MOSI 19
-#define SMC_DBG_EN 20
-#define SMC_RST_XDK_N 21
+#define SMC_DBG_EN 0
+#define SMC_RST_XDK_N 1
+#define SPI_CLK 2
+#define SPI_MOSI 3
+#define SPI_MISO 4
+#define SPI_SS_N 5
 
 #define NUVOTON_SPI_RDY 11 // FT2V4
 #define NUVOTON_SPI_MISO 12 // FT2R7
