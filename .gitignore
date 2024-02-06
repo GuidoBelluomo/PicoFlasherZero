@@ -1,2 +1,8 @@
 build
 /.vscode/
+/.idea/.gitignore
+/.idea/editor.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/PicoFlasherZero.iml
+/.idea/vcs.xml
