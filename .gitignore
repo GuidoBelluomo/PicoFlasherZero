@@ -7,3 +7,4 @@ build
 /.idea/PicoFlasherZero.iml
 /.idea/vcs.xml
 /cmake/
+/cmake-build-debug/
