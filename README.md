@@ -4,11 +4,11 @@
 
 Open source XBOX 360 NAND flasher firmware for [Waveshare RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero), forked from [PicoFlasher](https://github.com/X360Tools/PicoFlasher)
 
-I haven't tested this yet, as such there's no release. If you go out of your way to build this and something breaks, I'm afraid that'll be on you, friend.
+Tested only on NAND Flash!!!
 
 ## Wiring:
 
-### Nand Flash (STILL UNTESTED, TRY AT OWN RISK)
+### Nand Flash
 | Pico | Xbox |
 | ------------- | ------------- |
 | GP0  | SMC_DBG_EN  |
